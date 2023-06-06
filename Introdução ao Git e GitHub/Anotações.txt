@@ -1,0 +1,6 @@
+Links úteis:
+Download Git: https://git-scm.com/downloads
+O Git é um sistema de controle de versão distribuído amplamente utilizado para gerenciar o código-fonte de projetos de software.
+
+GitHub
+O GitHub é uma plataforma de hospedagem de código-fonte e colaboração baseada em Git. Ela permite que os desenvolvedores armazenem e compartilhem seus projetos de software, trabalhem em equipe, acompanhem e controlem as alterações feitas no código.
